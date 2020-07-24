@@ -11,7 +11,7 @@ General movement: W-A-S-D
 Sprint: Shift
 Sneak: STRG
 
-## Keys the Chat can use
+## Keys the chat can use
 You can deactivate and activate everything in the window
 
 Hotbar: "1" - "9"
