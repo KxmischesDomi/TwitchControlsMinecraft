@@ -33,7 +33,7 @@ public class ChatBot extends PircBot {
         activeBot = this;
         this.setName("TwitchBot");
         try {
-            this.connect("irc.chat.twitch.tv", 6667, "oauth:ktz1qbbvhvkmbz4n7gkeais0z51xxe");
+            this.connect("irc.chat.twitch.tv", 6667, "oauth:fov5ory4rauatzxvc12jtgzezpt5vm");
             this.joinChannel("#" + main.getNameField().getText());
             setVerbose(TwitchBot.getInstance().chatLog);
             main.updateIcon();
